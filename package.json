@@ -1,0 +1,12 @@
+{
+  "name": "sn-theme-test",
+  "version": "0.0.1",
+  "main": "theme.css",
+  "sn": {
+    "main": "theme.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nixlim/sn-test-theme.git"
+  }
+}
