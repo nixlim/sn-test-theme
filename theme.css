@@ -36,6 +36,8 @@
   --sn-stylekit-paragraph-text-color: var(--ui-text-color);
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
+  --sn-stylekit-monospace-font: "Hack";
+  --sn-stylekit-sans-serif-font: "Hack";
 }
 
 /*# sourceMappingURL=theme.css.map */
